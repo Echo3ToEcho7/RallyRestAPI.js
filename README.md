@@ -4,6 +4,7 @@ Node.js Wrapper for Rally's WSAPI
 Usage
 =====
 
+```coffeescript
 {RallyRest, RallyQuery} = require "RallyRestAPI.js"
 
 rally = new RallyRest({
@@ -19,3 +20,4 @@ rally.build().when(() ->
     console.log(results)
   )
 )
+```
