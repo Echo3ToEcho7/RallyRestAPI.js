@@ -1,0 +1,18 @@
+{
+	"author": "Colin O'Brien <cobrien@rallydev.com>",
+	"name": "RallyRestAPI.js",
+	"description": "Node.js wrapper around the Rally REST API",
+	"version": "0.0.1",
+	"dependencies": {
+		"forEachAsync": "~2.2.1",
+		"futures": "~2.3.1",
+		"reslter": "~2.0.1",
+		"URIjs": "~1.6.3",
+		"coffee-script" : "~1.3.3"
+	},
+	"devDependencies": {},
+	"optionalDependencies": {},
+	"engines": {
+		"node": "*"
+	}
+}
